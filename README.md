@@ -1,2 +1,1 @@
-# MINIMO-Template
- MINIMO Template
+### MINIMO Template
