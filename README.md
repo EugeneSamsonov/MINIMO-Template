@@ -1,1 +1,1 @@
-### [MINIMO Template](https://goodchebureck.github.io/MINIMO-Template/)
+### [MINIMO Template](https://eugenesamsonov.github.io/MINIMO-Template/)
